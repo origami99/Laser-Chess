@@ -1,0 +1,41 @@
+{
+    "Id": 1,
+    "Width": 5,
+    "Height": 6,
+    "PiecesMap": {
+        "c": 5,
+        "r": 6,
+        "a": [
+            null,
+            "CommandUnit",
+            null,
+            null,
+            null,
+            "Drone",
+            "Drone",
+            "Drone",
+            null,
+            "Drone",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            "Grunt",
+            null,
+            "Grunt",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+        ]
+    }
+}

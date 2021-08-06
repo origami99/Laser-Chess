@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1944035dd28cfa40a4f4b0eb0eb03a0, type: 3}
+  m_Name: DreadnoughtSO
+  m_EditorClassIdentifier: 
+  _maxHealth: 5
+  _attackPower: 2
+  _attackType: 2
+  _overrideMovementScript: 1
+  _movementDirections:
+    _upRange: 1
+    _downRange: 1
+    _rightRange: 1
+    _leftRange: 1
+    _upLeftRange: 1
+    _upRightRange: 1
+    _downRightRange: 1
+    _downLeftRange: 1
+  _overrideAttackScript: 1
+  _attackDirections:
+    _upRange: 1
+    _downRange: 1
+    _rightRange: 1
+    _leftRange: 1
+    _upLeftRange: 1
+    _upRightRange: 1
+    _downRightRange: 1
+    _downLeftRange: 1
+  _graphicIcon: {fileID: 2800000, guid: d182c6ed48f1ef74c92748fd92b7a8f5, type: 3}

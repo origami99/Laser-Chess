@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8b3ac28623e6d2478b5fc77bc2be2c7, type: 3}
+  m_Name: PiecesListSO
+  m_EditorClassIdentifier: 
+  _piecesPrefabs:
+  - {fileID: -6040067787684413362, guid: 4889720817710ce47aeaf0a13e09844c, type: 3}
+  - {fileID: 9113984784232686867, guid: 9565bdfe9dc41564da71638eaa05476f, type: 3}
+  - {fileID: -3194883606114778193, guid: 5f270c464c8fecf48a0f08bc97ee8044, type: 3}
+  - {fileID: 7124453824457145265, guid: c31f3280a59e23545a6e240422d317a9, type: 3}
+  - {fileID: 6853771032656231463, guid: 6871835cf2a266b4c9086e967a2677bc, type: 3}
+  - {fileID: 9193237180259499406, guid: 4f315318e98c6464e8b809eae020d5c9, type: 3}
